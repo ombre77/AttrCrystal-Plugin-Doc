@@ -2,7 +2,9 @@
 
 The Attribute Crystal is the main component of this plugin, when consumed by right-clicking, it increments your crystal level.
 It is crafted like this:
+
 ![Check craft in #recipes](craft.png)
+
 Or you can get it by killing a player that has a crystal level above -2 (minimum you can get). Getting killed by a player will decrease your crystal level if it isn't at the minimum (-2).
 You can consume the Crystal only if you have a level under 5 (max level).
 Consuming a Crystal launches an animation. You can skip this animation by sneaking while the animation plays or by sneaking when consuming the crystal to skip it entirely.
